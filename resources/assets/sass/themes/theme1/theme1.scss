@@ -1,0 +1,45 @@
+/*!
+
+ * Theme 1 - by Wondo
+
+ */
+
+@import 'theme1/variables';
+@import 'theme1/mixins';
+
+// Plugins CSS
+@import "theme1/plugins/plugin-bootstrap-switch";
+@import "theme1/plugins/plugin-nouislider";
+@import "theme1/plugins/plugin-datepicker";
+
+// Core CSS
+@import "theme1/buttons";
+@import "theme1/inputs";
+@import "theme1/checkboxes-radio";
+@import "theme1/progress";
+@import "theme1/badges";
+@import "theme1/pagination";
+@import "theme1/typography";
+@import "theme1/misc";
+@import "theme1/pills";
+
+// components
+@import "theme1/social-buttons";
+@import "theme1/tabs";
+@import "theme1/navbar";
+@import "theme1/dropdown";
+@import "theme1/alerts";
+@import "theme1/images";
+@import "theme1/popups";
+@import "theme1/nucleo-outline";
+@import "theme1/modals";
+@import "theme1/carousel";
+@import "theme1/cards";
+@import "theme1/footers";
+
+// example pages and sections
+@import "theme1/example-pages";
+@import "theme1/sections";
+
+
+@import "theme1/responsive";

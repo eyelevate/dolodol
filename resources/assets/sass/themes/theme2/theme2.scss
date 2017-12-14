@@ -1,0 +1,45 @@
+/*!
+
+ * Theme 2 - by Sooah
+
+ */
+
+@import 'theme2/variables';
+@import 'theme2/mixins';
+
+// Plugins CSS
+@import "theme2/plugins/plugin-bootstrap-switch";
+@import "theme2/plugins/plugin-nouislider";
+@import "theme2/plugins/plugin-datepicker";
+
+// Core CSS
+@import "theme2/buttons";
+@import "theme2/inputs";
+@import "theme2/checkboxes-radio";
+@import "theme2/progress";
+@import "theme2/badges";
+@import "theme2/pagination";
+@import "theme2/typography";
+@import "theme2/misc";
+@import "theme2/pills";
+
+// components
+@import "theme2/social-buttons";
+@import "theme2/tabs";
+@import "theme2/navbar";
+@import "theme2/dropdown";
+@import "theme2/alerts";
+@import "theme2/images";
+@import "theme2/popups";
+@import "theme2/nucleo-outline";
+@import "theme2/modals";
+@import "theme2/carousel";
+@import "theme2/cards";
+@import "theme2/footers";
+
+// example pages and sections
+@import "theme2/example-pages";
+@import "theme2/sections";
+
+
+@import "theme2/responsive";
